@@ -4,7 +4,7 @@ hclfmt mirror
 Mirror of hclfmt for pre-commit with conda as a language.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
-For hclfmt: see https://github.com/fatih/hclfmt
+For hclfmt: see https://github.com/hashicorp/hcl/tree/main/cmd/hclfmt
 
 ### Using hclfmt with pre-commit and conda:
 
