@@ -1,5 +1,5 @@
 - id: hclfmt-conda
   name: hclfmt-conda
   description: This hook runs hclfmt.
-  entry: hclfmt -w .
+  entry: hclfmt -w
   language: conda
