@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - hclfmt=2.20.0
+  - hclfmt=2.20.1
